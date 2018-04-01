@@ -1,2 +1,2 @@
 # Pong
-Pong game with AI trained by reinforcement learning.
+Pong game with AI trained by reinforcement learning (Q learning).
